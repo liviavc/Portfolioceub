@@ -3,7 +3,7 @@
 
 <p align="center">
   Estudante de Engenharia da Computação — 1º semestre <br>
-  Apaixonada por dados e robótica!
+  Apaixonada por dados e robótica.
 </p>
 
 ---
